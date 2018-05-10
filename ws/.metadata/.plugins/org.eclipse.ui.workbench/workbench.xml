@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="11" version="2.0">
+<workbenchAdvisor/>
+<window height="477" width="1154" x="283" y="242">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="100" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="62" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="98" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="152" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="aQute.bndpro.editors.BndMultiPageEditor" itemType="typeToolBarContribution" x="32" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.PropertiesFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1514411186208" focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWorldActivator.java" partName="HelloWorldActivator.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/OSGi Turtorial/src/org/osgi/tutorial/HelloWorldActivator.java" title="HelloWorldActivator.java" tooltip="OSGi Turtorial/src/org/osgi/tutorial/HelloWorldActivator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/OSGi Turtorial/src/org/osgi/tutorial/HelloWorldActivator.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="260" selectionTopPixel="0"/>
+</editor>
+<editor id="aQute.bndpro.editors.BndMultiPageEditor" name="helloworld.bnd" partName="OSGi Turtorial" path="/Users/wenzhongh/OSGi_Tutorial/ws/OSGi Turtorial/helloworld.bnd" title="OSGi Turtorial" tooltip="OSGi Turtorial/helloworld.bnd" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/OSGi Turtorial/helloworld.bnd"/>
+</editor>
+<editor id="aQute.bnd.jareditor.JarEditor" name="helloworld.jar" partName="helloworld.jar" path="/Users/wenzhongh/OSGi_Tutorial/ws/OSGi Turtorial/helloworld.jar" title="helloworld.jar" tooltip="OSGi Turtorial/helloworld.jar" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/OSGi Turtorial/helloworld.jar"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BundleCounterActivator.java" partName="BundleCounterActivator.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/OSGi Turtorial/src/org/osgi/tutorial/BundleCounterActivator.java" title="BundleCounterActivator.java" tooltip="OSGi Turtorial/src/org/osgi/tutorial/BundleCounterActivator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/OSGi Turtorial/src/org/osgi/tutorial/BundleCounterActivator.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1177" selectionTopPixel="396"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.PropertiesFileEditor" name="bundlecounter.bnd" partName="bundlecounter.bnd" path="/Users/wenzhongh/OSGi_Tutorial/ws/OSGi Turtorial/bundlecounter.bnd" title="bundlecounter.bnd" tooltip="OSGi Turtorial/bundlecounter.bnd" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/OSGi Turtorial/bundlecounter.bnd"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="93" selectionTopPixel="0"/>
+</editor>
+<editor id="aQute.bnd.jareditor.JarEditor" name="bundlecounter.jar" partName="bundlecounter.jar" path="/Users/wenzhongh/OSGi_Tutorial/ws/OSGi Turtorial/bundlecounter.jar" title="bundlecounter.jar" tooltip="OSGi Turtorial/bundlecounter.jar" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/OSGi Turtorial/bundlecounter.jar"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="aQute.bndpro.editors.BndMultiPageEditor" name="bundlecounter.bnd" partName="OSGi Turtorial" path="/Users/wenzhongh/OSGi_Tutorial/ws/OSGi Turtorial/bundlecounter.bnd" title="OSGi Turtorial" tooltip="OSGi Turtorial/bundlecounter.bnd" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/OSGi Turtorial/bundlecounter.bnd"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HeartbeatActivator.java" partName="HeartbeatActivator.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/OSGi Turtorial/src/org/osgi/tutorial/HeartbeatActivator.java" title="HeartbeatActivator.java" tooltip="OSGi Turtorial/src/org/osgi/tutorial/HeartbeatActivator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/OSGi Turtorial/src/org/osgi/tutorial/HeartbeatActivator.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="561" selectionTopPixel="126"/>
+</editor>
+<editor id="aQute.bndpro.editors.BndMultiPageEditor" name="bundleheartbeat.bnd" partName="OSGi Turtorial" path="/Users/wenzhongh/OSGi_Tutorial/ws/OSGi Turtorial/bundleheartbeat.bnd" title="OSGi Turtorial" tooltip="OSGi Turtorial/bundleheartbeat.bnd" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/OSGi Turtorial/bundleheartbeat.bnd"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Message.java" partName="Message.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/src/org/osgi/book/reader/api/Message.java" title="Message.java" tooltip="MessageCenter/src/org/osgi/book/reader/api/Message.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/src/org/osgi/book/reader/api/Message.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="63" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MessageReaderException.java" partName="MessageReaderException.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/src/org/osgi/book/reader/api/MessageReaderException.java" title="MessageReaderException.java" tooltip="MessageCenter/src/org/osgi/book/reader/api/MessageReaderException.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/src/org/osgi/book/reader/api/MessageReaderException.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="235" selectionOffset="142" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Mailbox.java" partName="Mailbox.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/src/org/osgi/book/reader/api/Mailbox.java" title="Mailbox.java" tooltip="MessageCenter/src/org/osgi/book/reader/api/Mailbox.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/src/org/osgi/book/reader/api/Mailbox.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="362" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailboxException.java" partName="MailboxException.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/src/org/osgi/book/reader/api/MailboxException.java" title="MailboxException.java" tooltip="MessageCenter/src/org/osgi/book/reader/api/MailboxException.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/src/org/osgi/book/reader/api/MailboxException.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="305" selectionTopPixel="0"/>
+</editor>
+<editor id="aQute.bndpro.editors.BndMultiPageEditor" name="mailbox_api.bnd" partName="MessageCenter" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/mailbox_api.bnd" title="MessageCenter" tooltip="MessageCenter/mailbox_api.bnd" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/mailbox_api.bnd"/>
+</editor>
+<editor id="aQute.bndpro.editors.BndMultiPageEditor" name="fixed_mailbox.bnd" partName="MessageCenter" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/fixed_mailbox.bnd" title="MessageCenter" tooltip="MessageCenter/fixed_mailbox.bnd" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/fixed_mailbox.bnd"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringMessage.java" partName="StringMessage.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/src/org/osgi/book/reader/fixedmailbox/StringMessage.java" title="StringMessage.java" tooltip="MessageCenter/src/org/osgi/book/reader/fixedmailbox/StringMessage.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/src/org/osgi/book/reader/fixedmailbox/StringMessage.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="659" selectionTopPixel="251"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FixedMailbox.java" partName="FixedMailbox.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/src/org/osgi/book/reader/fixedmailbox/FixedMailbox.java" title="FixedMailbox.java" tooltip="MessageCenter/src/org/osgi/book/reader/fixedmailbox/FixedMailbox.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/src/org/osgi/book/reader/fixedmailbox/FixedMailbox.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1069" selectionTopPixel="0"/>
+</editor>
+<editor id="aQute.bnd.jareditor.JarEditor" name="fixed_mailbox.jar" partName="fixed_mailbox.jar" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/fixed_mailbox.jar" title="fixed_mailbox.jar" tooltip="MessageCenter/fixed_mailbox.jar" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/fixed_mailbox.jar"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WelcomeMailboxActivator.java" partName="WelcomeMailboxActivator.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/src/org/osgi/book/reader/fixedmailbox/WelcomeMailboxActivator.java" title="WelcomeMailboxActivator.java" tooltip="MessageCenter/src/org/osgi/book/reader/fixedmailbox/WelcomeMailboxActivator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/src/org/osgi/book/reader/fixedmailbox/WelcomeMailboxActivator.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="268" selectionTopPixel="33"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MessageCountActivator2.java" partName="MessageCountActivator2.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/src/org/osgi/tutorial/MessageCountActivator2.java" title="MessageCountActivator2.java" tooltip="MessageCenter/src/org/osgi/tutorial/MessageCountActivator2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/src/org/osgi/tutorial/MessageCountActivator2.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="109" selectionOffset="712" selectionTopPixel="177"/>
+</editor>
+<editor id="aQute.bndpro.editors.BndMultiPageEditor" name="message_count.bnd" partName="MessageCenter" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/message_count.bnd" title="MessageCenter" tooltip="MessageCenter/message_count.bnd" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/message_count.bnd"/>
+</editor>
+<editor id="aQute.bndpro.editors.BndMultiPageEditor" name="message_count2.bnd" partName="MessageCenter" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/message_count2.bnd" title="MessageCenter" tooltip="MessageCenter/message_count2.bnd" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/message_count2.bnd"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DbMailboxActivator.java" partName="DbMailboxActivator.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/src/org/osgi/book/reader/dbmailbox/DbMailboxActivator.java" title="DbMailboxActivator.java" tooltip="MessageCenter/src/org/osgi/book/reader/dbmailbox/DbMailboxActivator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/src/org/osgi/book/reader/dbmailbox/DbMailboxActivator.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1236" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DbMailbox.java" partName="DbMailbox.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/src/org/osgi/book/reader/dbmailbox/DbMailbox.java" title="DbMailbox.java" tooltip="MessageCenter/src/org/osgi/book/reader/dbmailbox/DbMailbox.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/src/org/osgi/book/reader/dbmailbox/DbMailbox.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="180" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailboxTableModel.java" partName="MailboxTableModel.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/src/org/osgi/book/reader/gui/MailboxTableModel.java" title="MailboxTableModel.java" tooltip="MessageCenter/src/org/osgi/book/reader/gui/MailboxTableModel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/src/org/osgi/book/reader/gui/MailboxTableModel.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1199" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailboxPanel.java" partName="MailboxPanel.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/src/org/osgi/book/reader/gui/MailboxPanel.java" title="MailboxPanel.java" tooltip="MessageCenter/src/org/osgi/book/reader/gui/MailboxPanel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/src/org/osgi/book/reader/gui/MailboxPanel.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="162" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerMailboxTracker.java" partName="ScannerMailboxTracker.java" path="/Users/wenzhongh/OSGi_Tutorial/ws/MessageCenter/src/org/osgi/book/reader/gui/ScannerMailboxTracker.java" title="ScannerMailboxTracker.java" tooltip="MessageCenter/src/org/osgi/book/reader/gui/ScannerMailboxTracker.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MessageCenter/src/org/osgi/book/reader/gui/ScannerMailboxTracker.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="647" selectionTopPixel="30"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.pde.runtime.LogView" partName="Error Log">
+<viewState activate="true" allSessions="true" column2="300" column3="150" column4="150" error="true" groupBy="0" info="true" limit="50" ok="true" orderType="2" orderValue="-1" show_filter_text="true" useLimit="true" warning="true"/>
+</view>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Hierarchy">
+<viewState hidefields="false" hidelocaltypes="false" hidenonpublic="false" hidestatic="false" link_editors="0" mv_vertical_scroll="0" orientation="3" qualified_names="0" ratio="350" showinherited="false" sortbydefiningtype="false" vertical_scroll="0" view="2" workingSetName="Aggregate for window 1514411186208"/>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="Aggregate for window 1514411186208">
+<customFilters userDefinedPatternsEnabled="false">&#x0A;<xmlDefinedFilters>&#x0A;<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>&#x0A;<category IMemento.internal.id="Warnings"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="84" org.eclipse.ui.ide.markerType="114" org.eclipse.ui.ide.pathField="144" org.eclipse.ui.ide.resourceField="114" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaTrimState="1" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="16384" id="left" orientation="512" selectedTabId="org.eclipse.jdt.ui.PackageExplorer" style="1">
+<fastViews>
+<view id="org.eclipse.jdt.ui.PackageExplorer" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="1024" id="bottom" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="1">
+<fastViews>
+<view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.JavadocView" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.SourceView" ratio="0.3"/>
+<view id="org.eclipse.pde.runtime.LogView" ratio="0.3"/>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="131072" id="right" orientation="512" selectedTabId="org.eclipse.ui.views.ContentOutline" style="1">
+<fastViews>
+<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="762" ratioRight="254" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="254" ratioRight="762" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.6566951" ratioLeft="461" ratioRight="241" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
+<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.7493438" ratioLeft="571" ratioRight="191" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="aQute.bndpro.editors.BndMultiPageEditor" path="/MessageCenter/fixed_mailbox.bnd"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MessageCenter/src/org/osgi/book/reader/fixedmailbox/FixedMailbox.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="aQute.bnd.jareditor.JarEditor" path="/MessageCenter/fixed_mailbox.jar"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MessageCenter/src/org/osgi/book/reader/fixedmailbox/WelcomeMailboxActivator.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MessageCenter/src/org/osgi/tutorial/MessageCountActivator2.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="aQute.bndpro.editors.BndMultiPageEditor" path="/MessageCenter/message_count.bnd"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="aQute.bndpro.editors.BndMultiPageEditor" path="/MessageCenter/message_count2.bnd"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MessageCenter/src/org/osgi/book/reader/dbmailbox/DbMailboxActivator.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MessageCenter/src/org/osgi/book/reader/dbmailbox/DSCustomize.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MessageCenter/src/org/osgi/book/reader/dbmailbox/DbMailbox.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MessageCenter/src/org/osgi/book/reader/gui/MailboxTableModel.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MessageCenter/src/org/osgi/book/reader/gui/MailboxPanel.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MessageCenter/src/org/osgi/book/reader/gui/ScannerMailboxTracker.java"/>
+</editors>
+<item historyLabel="FixedMailbox.java" index="1">
+<position info="not_deleted" x="1402" y="0"/>
+</item>
+<item historyLabel="FixedMailbox.java" index="1">
+<position info="not_deleted" x="1069" y="0"/>
+</item>
+<item historyLabel="FixedMailbox.java" index="1">
+<position info="not_deleted" x="836" y="0"/>
+</item>
+<item historyLabel="FixedMailbox.java" index="1">
+<position info="not_deleted" x="957" y="0"/>
+</item>
+<item historyLabel="FixedMailbox.java" index="1">
+<position info="not_deleted" x="967" y="0"/>
+</item>
+<item historyLabel="FixedMailbox.java" index="1">
+<position info="not_deleted" x="1069" y="0"/>
+</item>
+<item historyLabel="FixedMailbox.java" index="1">
+<position info="not_deleted" x="1069" y="0"/>
+</item>
+<item historyLabel="MessageCenter" index="0"/>
+<item historyLabel="fixed_mailbox.jar" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="WelcomeMailboxActivator.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="WelcomeMailboxActivator.java" index="3">
+<position info="not_deleted" x="442" y="0"/>
+</item>
+<item historyLabel="WelcomeMailboxActivator.java" index="3">
+<position info="not_deleted" x="453" y="0"/>
+</item>
+<item historyLabel="WelcomeMailboxActivator.java" index="3">
+<position info="not_deleted" x="520" y="0"/>
+</item>
+<item historyLabel="WelcomeMailboxActivator.java" index="3">
+<position info="not_deleted" x="268" y="0"/>
+</item>
+<item historyLabel="MessageCountActivator2.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MessageCountActivator2.java" index="4">
+<position info="not_deleted" x="712" y="109"/>
+</item>
+<item historyLabel="MessageCenter" index="5"/>
+<item historyLabel="MessageCenter" index="6"/>
+<item historyLabel="DbMailboxActivator.java" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DbMailboxActivator.java" index="7">
+<position info="not_deleted" x="633" y="7"/>
+</item>
+<item historyLabel="DbMailboxActivator.java" index="7">
+<position info="not_deleted" x="707" y="0"/>
+</item>
+<item historyLabel="DSCustomize.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DbMailboxActivator.java" index="7">
+<position info="not_deleted" x="791" y="0"/>
+</item>
+<item historyLabel="DSCustomize.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DbMailboxActivator.java" index="7">
+<position info="not_deleted" x="791" y="0"/>
+</item>
+<item historyLabel="DbMailboxActivator.java" index="7">
+<position info="not_deleted" x="917" y="0"/>
+</item>
+<item historyLabel="DbMailbox.java" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DbMailboxActivator.java" index="7">
+<position info="not_deleted" x="1047" y="0"/>
+</item>
+<item historyLabel="DbMailbox.java" index="9">
+<position info="not_deleted" x="180" y="0"/>
+</item>
+<item historyLabel="DbMailboxActivator.java" index="7">
+<position info="not_deleted" x="1047" y="0"/>
+</item>
+<item historyLabel="DbMailboxActivator.java" index="7">
+<position info="not_deleted" x="1115" y="1"/>
+</item>
+<item historyLabel="DbMailboxActivator.java" index="7">
+<position info="not_deleted" x="1121" y="1"/>
+</item>
+<item historyLabel="DbMailboxActivator.java" index="7">
+<position info="not_deleted" x="1125" y="0"/>
+</item>
+<item historyLabel="DbMailboxActivator.java" index="7">
+<position info="not_deleted" x="1236" y="0"/>
+</item>
+<item historyLabel="MailboxTableModel.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MailboxTableModel.java" index="10">
+<position info="not_deleted" x="442" y="0"/>
+</item>
+<item historyLabel="MailboxTableModel.java" index="10">
+<position info="not_deleted" x="431" y="0"/>
+</item>
+<item historyLabel="MailboxTableModel.java" index="10">
+<position info="not_deleted" x="548" y="0"/>
+</item>
+<item historyLabel="MailboxTableModel.java" index="10">
+<position info="not_deleted" x="623" y="0"/>
+</item>
+<item historyLabel="MailboxTableModel.java" index="10">
+<position info="not_deleted" x="655" y="0"/>
+</item>
+<item historyLabel="MailboxTableModel.java" index="10">
+<position info="not_deleted" x="702" y="0"/>
+</item>
+<item historyLabel="MailboxTableModel.java" index="10">
+<position info="not_deleted" x="772" y="0"/>
+</item>
+<item historyLabel="MailboxTableModel.java" index="10">
+<position info="not_deleted" x="1205" y="0"/>
+</item>
+<item historyLabel="MailboxTableModel.java" index="10">
+<position info="not_deleted" x="1199" y="0"/>
+</item>
+<item historyLabel="MailboxPanel.java" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MailboxPanel.java" index="11">
+<position info="not_deleted" x="503" y="0"/>
+</item>
+<item historyLabel="MailboxPanel.java" index="11">
+<position info="not_deleted" x="162" y="0"/>
+</item>
+<item historyLabel="ScannerMailboxTracker.java" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ScannerMailboxTracker.java" index="12">
+<position info="not_deleted" x="451" y="0"/>
+</item>
+<item active="true" historyLabel="ScannerMailboxTracker.java" index="12">
+<position info="not_deleted" x="448" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="left"/>
+</trimArea>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="right"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottom"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerMailboxTracker.java" tooltip="MessageCenter/src/org/osgi/book/reader/gui/ScannerMailboxTracker.java">
+<persistable path="/MessageCenter/src/org/osgi/book/reader/gui/ScannerMailboxTracker.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailboxPanel.java" tooltip="MessageCenter/src/org/osgi/book/reader/gui/MailboxPanel.java">
+<persistable path="/MessageCenter/src/org/osgi/book/reader/gui/MailboxPanel.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailboxTableModel.java" tooltip="MessageCenter/src/org/osgi/book/reader/gui/MailboxTableModel.java">
+<persistable path="/MessageCenter/src/org/osgi/book/reader/gui/MailboxTableModel.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DbMailbox.java" tooltip="MessageCenter/src/org/osgi/book/reader/dbmailbox/DbMailbox.java">
+<persistable path="/MessageCenter/src/org/osgi/book/reader/dbmailbox/DbMailbox.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DSCustomize.java" tooltip="MessageCenter/src/org/osgi/book/reader/dbmailbox/DSCustomize.java">
+<persistable path="/MessageCenter/src/org/osgi/book/reader/dbmailbox/DSCustomize.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DbMailboxActivator.java" tooltip="MessageCenter/src/org/osgi/book/reader/dbmailbox/DbMailboxActivator.java">
+<persistable path="/MessageCenter/src/org/osgi/book/reader/dbmailbox/DbMailboxActivator.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="aQute.bndpro.editors.BndMultiPageEditor" name="message_count2.bnd" tooltip="MessageCenter/message_count2.bnd">
+<persistable path="/MessageCenter/message_count2.bnd"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="aQute.bndpro.editors.BndMultiPageEditor" name="message_count.bnd" tooltip="MessageCenter/message_count.bnd">
+<persistable path="/MessageCenter/message_count.bnd"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MessageCountActivator2.java" tooltip="MessageCenter/src/org/osgi/tutorial/MessageCountActivator2.java">
+<persistable path="/MessageCenter/src/org/osgi/tutorial/MessageCountActivator2.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WelcomeMailboxActivator.java" tooltip="MessageCenter/src/org/osgi/book/reader/fixedmailbox/WelcomeMailboxActivator.java">
+<persistable path="/MessageCenter/src/org/osgi/book/reader/fixedmailbox/WelcomeMailboxActivator.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="aQute.bnd.jareditor.JarEditor" name="fixed_mailbox.jar" tooltip="MessageCenter/fixed_mailbox.jar">
+<persistable path="/MessageCenter/fixed_mailbox.jar"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FixedMailbox.java" tooltip="MessageCenter/src/org/osgi/book/reader/fixedmailbox/FixedMailbox.java">
+<persistable path="/MessageCenter/src/org/osgi/book/reader/fixedmailbox/FixedMailbox.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringMessage.java" tooltip="MessageCenter/src/org/osgi/book/reader/fixedmailbox/StringMessage.java">
+<persistable path="/MessageCenter/src/org/osgi/book/reader/fixedmailbox/StringMessage.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="aQute.bndpro.editors.BndMultiPageEditor" name="fixed_mailbox.bnd" tooltip="MessageCenter/fixed_mailbox.bnd">
+<persistable path="/MessageCenter/fixed_mailbox.bnd"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="aQute.bndpro.editors.BndMultiPageEditor" name="mailbox_api.bnd" tooltip="MessageCenter/mailbox_api.bnd">
+<persistable path="/MessageCenter/mailbox_api.bnd"/>
+</file>
+</mruList>
+</workbench>

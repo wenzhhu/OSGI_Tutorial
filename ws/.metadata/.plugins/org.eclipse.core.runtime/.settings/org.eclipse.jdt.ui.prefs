@@ -1,0 +1,24 @@
+#Wed Jan 03 08:41:45 NZDT 2018
+sourceHoverBackgroundColor=255,255,225
+content_assist_proposals_foreground=0,0,0
+org.eclipse.jdt.ui.overrideannotation=true
+spelling_locale_initialized=true
+org.eclipse.jdt.ui.gettersetter.use.is=true
+org.eclipse.jdt.ui.text.templates_migrated=true
+useAnnotationsPrefPage=true
+eclipse.preferences.version=1
+org.eclipse.jface.textfont=1|Monaco|13.0|0|COCOA|1|Monaco;
+tabWidthPropagated=true
+org.eclipse.jdt.ui.exception.name=e
+org.eclipse.jdt.ui.editor.tab.width=
+fontPropagated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+proposalOrderMigrated=true
+content_assist_proposals_background=255,255,255
+org.eclipse.jdt.ui.formatterprofiles.version=11
+content_assist_number_of_computers=13
+useQuickDiffPrefPage=true
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.io.Closeable"><rhs name\="java.io.ByteArrayInputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.ByteArrayInputStream"/></lhs><lhs name\="java.io.InputStream"><rhs name\="java.io.ByteArrayInputStream"/></lhs><lhs name\="org.osgi.book.reader.api.Message"><rhs name\="org.osgi.book.reader.fixedmailbox.StringMessage"/></lhs><lhs name\="org.osgi.util.tracker.ServiceTrackerCustomizer"><rhs name\="org.osgi.util.tracker.ServiceTracker"/></lhs><lhs name\="org.osgi.util.tracker.ServiceTracker"><rhs name\="org.osgi.util.tracker.ServiceTracker"/></lhs></history>
+org.eclipse.jdt.ui.text.code_templates_migrated=true

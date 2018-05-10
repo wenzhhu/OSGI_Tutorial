@@ -1,0 +1,2 @@
+Private-Package: org.osgi.tutorial
+Bundle-Activator: org.osgi.tutorial.MessageCountActivator

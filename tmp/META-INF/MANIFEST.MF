@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: helloworld
+Bundle-Name: helloworld
+Bundle-Version: 0
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1509243657511
+Private-Package: org.osgi.tutorial
+Bundle-Activator: org.osgi.tutorial.HelloWorldActivator
+Import-Package: org.osgi.framework
+Created-By: 1.8.0_144 (Oracle Corporation)
+Tool: Bnd-0.0.384
+

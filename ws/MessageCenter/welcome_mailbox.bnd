@@ -1,0 +1,2 @@
+Private-Package: org.osgi.book.reader.fixedmailbox
+Bundle-Activator: org.osgi.book.reader.fixedmailbox.WelcomeMailboxActivator

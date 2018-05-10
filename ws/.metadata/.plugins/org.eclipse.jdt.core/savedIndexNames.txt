@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/Users/wenzhongh/OSGi_Tutorial/ws/.metadata/.plugins/org.eclipse.jdt.core
+3296937467.index
+1271342938.index
+2930187171.index
+221650340.index

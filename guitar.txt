@@ -1,0 +1,57 @@
+吉他部分：
+
+Headstock：琴头
+Tuning peg：弦扭，卷弦器         Tune：调音
+Fret：品           Fret wire：品丝         second-fret，third-fret：第二品，第三品。。。。以此类推
+Fretboard：指板
+String：弦       first-string：第一弦      second-string：第二弦。。。以此类推
+Pickup：拾音器        single coil：单线圈          humbucker：双线圈
+pickup switch：拾音器切换
+nob：旋钮       tune nob：音色旋钮       volume nob：音量旋钮
+Bridge：琴桥
+Whammy bar， tremolo：摇把
+
+
+基本乐理：
+
+Bar：小节      12-bar：12小节。。。。以此类推
+note：音符     8th-note：8分音符    16th-note：16分音符。。。以此类推
+
+Scale：音阶     
+Minor Scale：小调音阶         Major Scale：大调音阶
+Pentatonic-scale：五声音阶       blues-scale：蓝调音阶
+A Minor：A小调        E Major：E大调。。。以此类推
+（从这里就可以组合出很多不同了：Minor pentatonic Scale：小调五声音阶，
+A Minor pentatonic Scale：A小调五声音阶。。。。等等以此类推）
+
+Chord：和弦    
+Major chord：大三和弦，Minor Chord：小三和弦，Dominant Chord：属七和弦
+Power chord：强力和弦（1+5）  其他9，13和弦类推。。。
+Open Chord：开放和弦    Movable Chort：移动和弦
+
+这里就可以把上面的都组合起来：the 1,3,5 notes of A chord in E minor Pentatonic-scale
+用中文讲就是：E小调五声音阶里面，A和弦的 1，3，5音
+
+Shuffle：蓝调节奏，3拍只弹前后2拍。
+Beat：节拍   4-beat：4拍   8-beat：8拍。。。。以此类推
+
+各种术语：
+
+Progression：进行 （比如一首歌4个和弦：A--C--E--G 这就是一个progression）
+Improvise：即兴演奏
+Rhythm：节奏
+Backing：伴奏
+Strum：扫弦
+Pick：拨弦       Alternative Picking：上下拨弦      Finger picking：指弹
+Arpeggio：分解和弦
+
+
+Sweetmoon 补充：
+
+ornaments 装饰音    chord ornamentation 和弦修饰音      泛音（harmonics）
+barre 食指按弦变音法（大横按）
+vibrato 揉弦/颤音        vibrato  揉弦       slides 滑弦
+legato 连音    accenting重音    passing tone 过音
+hammer-ons 打弦       pull-offs拉弦     tap 右手打弦（点弦）
+left hand muting 左手制音    palm muting手掌闷音     picking exercise    推弦bends  经 whole step bend全音推弦  release bend 推弦后的放弦
+上行滑弦（slide up） 下行滑弦（slide down）

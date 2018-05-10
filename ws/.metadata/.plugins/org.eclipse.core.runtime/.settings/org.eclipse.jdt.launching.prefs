@@ -1,0 +1,3 @@
+#Thu May 10 19:07:57 NZST 2018
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="52,org.eclipse.jdt.internal.launching.macosx.MacOSXType13,1514664359371" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType">\n<vm id\="1514664359371" name\="J7" path\="/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home"/>\n</vmType>\n</vmSettings>\n

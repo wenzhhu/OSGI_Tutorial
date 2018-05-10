@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=OSGi Turtorial/\/Users\/wenzhongh\/OSGi_Tutorial\/Equinox\/equinox-SDK-3.5.1\/plugins\/org.eclipse.osgi_3.5.1.R35x_v20090827.jar&lt;org.osgi.framework(BundleActivator.class[BundleActivator" modifiers="1537" timestamp="1253211694000"/>
+<typeInfo handle="=OSGi Turtorial/\/Users\/wenzhongh\/OSGi_Tutorial\/Equinox\/equinox-SDK-3.5.1\/plugins\/org.eclipse.osgi_3.5.1.R35x_v20090827.jar&lt;org.osgi.framework(BundleListener.class[BundleListener" modifiers="1537" timestamp="1253211694000"/>
+<typeInfo handle="=MessageCenter/src&lt;org.osgi.book.reader.api{Message.java[Message" modifiers="513" timestamp="1514429923000"/>
+<typeInfo handle="=MessageCenter/src&lt;org.osgi.book.reader.api{Mailbox.java[Mailbox" modifiers="513" timestamp="1514490188000"/>
+<typeInfo handle="=MessageCenter/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;javax.swing.table(AbstractTableModel.class[AbstractTableModel" modifiers="1057" timestamp="1428691365000"/>
+<typeInfo handle="=MessageCenter/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;javax.swing(JPanel.class[JPanel" modifiers="33" timestamp="1428691365000"/>
+<typeInfo handle="=MessageCenter/\/Users\/wenzhongh\/OSGi_Tutorial\/Equinox\/equinox-SDK-3.5.1\/plugins\/org.eclipse.osgi_3.5.1.R35x_v20090827.jar&lt;org.osgi.util.tracker(ServiceTracker.class[ServiceTracker" modifiers="33" timestamp="1253211694000"/>
+</typeInfoHistroy>
